@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/counter-game/static/css/main.f0f5a432.css",
+    "main.js": "/counter-game/static/js/main.7e4999f8.js",
+    "index.html": "/counter-game/index.html",
+    "main.f0f5a432.css.map": "/counter-game/static/css/main.f0f5a432.css.map",
+    "main.7e4999f8.js.map": "/counter-game/static/js/main.7e4999f8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0f5a432.css",
+    "static/js/main.7e4999f8.js"
+  ]
+}
